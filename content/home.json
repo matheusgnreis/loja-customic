@@ -3,52 +3,6 @@
   "meta_description": "São mais de 10 anos inovando. Capas com Proteção Militar certificadas, Capa Biodegradável Seed® Eco Case, Capinhas personalizadas para iPhone e linha smartphone Android, películas e acessórios. Customic é a melhor capa do Brasil.",
   "sections": [
     {
-      "type": "banner-slider",
-      "autoplay": 4000,
-      "slides": [
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/customic-magsafe-1200x466-.jpg",
-          "link": "https://customic.com.br/impactor-clear-magsafe-all",
-          "alt": "Impactor Clear MagSafe Customic",
-          "mobile_img": "/img/uploads/customic-magsafe-605x1000-.jpg"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/customic-personalizadas-1200x466-.jpg",
-          "link": "https://www.lab.customic.com.br/",
-          "mobile_img": "/img/uploads/customic-personalizadas-605x1000-.jpg"
-        },
-        {
-          "start": "2022-02-10T15:22:57.412Z",
-          "end": "",
-          "img": "/img/uploads/customic-ultra-1200x466-.jpg",
-          "link": "https://customic.com.br/impactor-ultra-all",
-          "mobile_img": "/img/uploads/customic-ultra-605x1000-.jpg",
-          "alt": "Impactor Ultra Customic"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/anyconv.com__2.banner-desk-customic-antiblue.webp",
-          "mobile_img": "/img/uploads/2.banner-mobile-customic-antiblue.png",
-          "link": "/pelicula-antiblue-vidro-3d-customic",
-          "alt": "AntiBlueDez21"
-        },
-        {
-          "img": "/img/uploads/6.banner-desk-customic-seed.png",
-          "mobile_img": "/img/uploads/6.banner-mobile-customic-seed.png",
-          "link": "/seed-eco-case-antibacteria",
-          "alt": "SeedEcoAntibactDez21",
-          "start": "",
-          "end": ""
-        }
-      ],
-      "full_width": true
-    },
-    {
       "type": "collection-shelf",
       "shuffle": true,
       "limit": 12,
